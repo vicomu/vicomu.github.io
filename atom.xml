@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://vicomu.github.io</id>
+    <title>VicoMu</title>
+    <updated>2023-09-23T01:35:19.128Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://vicomu.github.io"/>
+    <link rel="self" href="https://vicomu.github.io/atom.xml"/>
+    <subtitle>保持热爱，奔赴星海</subtitle>
+    <logo>https://vicomu.github.io/images/avatar.png</logo>
+    <icon>https://vicomu.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, VicoMu</rights>
+    <entry>
+        <title type="html"><![CDATA[番茄狗]]></title>
+        <id>https://vicomu.github.io/post/fan-qie-gou/</id>
+        <link href="https://vicomu.github.io/post/fan-qie-gou/">
+        </link>
+        <updated>2023-09-21T14:46:32.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💻VicoMu的小站]]></title>
+        <id>https://vicomu.github.io/post/vicomu-de-xiao-zhan/</id>
+        <link href="https://vicomu.github.io/post/vicomu-de-xiao-zhan/">
+        </link>
+        <updated>2023-09-02T14:24:51.000Z</updated>
+    </entry>
+</feed>
